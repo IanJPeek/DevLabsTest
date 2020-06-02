@@ -1,0 +1,15 @@
+version: "3.7"
+# services:
+#   redis-server:
+#     image: redis:alpine
+#   redis-client:
+#     image: redis:alpine
+#     stdin_open: true
+#     tty: true
+#     command: redis-cli -h redis-server
+#     depends_on: 
+#       - redis-server
+
+services:
+  app:
+    build: .

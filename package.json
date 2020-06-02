@@ -1,0 +1,21 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000e\u0000v\u0000L\u0000a\u0000b\u0000s\u0000T\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "main": "hello.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IanJPeek/DevLabsTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IanJPeek/DevLabsTest/issues"
+  },
+  "homepage": "https://github.com/IanJPeek/DevLabsTest#readme"
+}
